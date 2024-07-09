@@ -1,0 +1,683 @@
+<<<<<<< HEAD
+[
+	{
+		"title": "En Attente 1",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "ff7f00",
+		"fillcolor": "ff7f00",
+		"latlngarray": [
+			{"lat": -72.959, "lng": -15.638},
+			{"lat": -71.647, "lng": -20.766},
+			{"lat": -71.126, "lng": -18.250},
+			{"lat": -71.062, "lng": -17.943},
+			{"lat": -71.061, "lng": -11.811},
+			{"lat": -71.238, "lng": -10.911}
+		]
+	},
+	{
+		"title": "En Attente 2",
+		"notes": "",
+		"wiki_link": "",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -71.674, "lng": -21.956},
+			{"lat": -71.667, "lng": -22.484},
+			{"lat": -72.105, "lng": -22.484},
+			{"lat": -72.359, "lng": -22.616},
+			{"lat": -72.604, "lng": -22.923},
+			{"lat": -73.550, "lng": -24.967},
+			{"lat": -73.921, "lng": -22.598},
+			{"lat": -74.425, "lng": -20.203},
+			{"lat": -73.149, "lng": -16.182}
+		]
+	},
+	{
+		"title": "En Attente 3",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "008000",
+		"fillcolor": "008000",
+		"latlngarray": [
+			{"lat": -72.213, "lng": -48.230},
+			{"lat": -72.512, "lng": -49.636},
+			{"lat": -72.930, "lng": -48.648},
+			{"lat": -73.084, "lng": -48.296},
+			{"lat": -73.501, "lng": -47.285},
+			{"lat": -73.625, "lng": -47.000},
+			{"lat": -73.631, "lng": -47.022},
+			{"lat": -73.693, "lng": -46.868},
+			{"lat": -73.853, "lng": -46.450},
+			{"lat": -73.470, "lng": -44.824},
+			{"lat": -73.445, "lng": -45.066},
+			{"lat": -73.369, "lng": -45.352},
+			{"lat": -72.761, "lng": -46.934}
+
+		]
+	},
+	{
+		"title": "En Attente 4",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0000FF",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -67.996, "lng": -51.359},
+			{"lat": -68.198, "lng": -52.502},
+			{"lat": -68.247, "lng": -52.436},
+			{"lat": -69.109, "lng": -52.414},
+			{"lat": -69.172, "lng": -52.348},
+			{"lat": -68.841, "lng": -50.568},
+			{"lat": -68.746, "lng": -50.656}
+		]
+	},
+	{
+		"title": "En Attente 5",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "8A2BE2",
+		"fillcolor": "8A2BE2",
+		"latlngarray": [
+			{"lat": -75.748, "lng": -4.596},
+			{"lat": -76.190, "lng": -2.816},
+			{"lat": -76.289, "lng": -3.190},
+			{"lat": -76.437, "lng": -3.495},
+			{"lat": -76.514, "lng": -3.759},
+			{"lat": -76.583, "lng": -3.982},
+			{"lat": -76.714, "lng": -4.492},
+			{"lat": -76.930, "lng": -5.444},
+			{"lat": -77.003, "lng": -5.884},
+			{"lat": -76.621, "lng": -7.727},
+			{"lat": -76.174, "lng": -6.162}
+		]
+	},
+	{
+		"title": "En Attente 6",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "6614b8",
+		"fillcolor": "6614b8",
+		"latlngarray": [
+			{"lat": -75.290, "lng": 0.094},
+			{"lat": -75.186, "lng": 0.941},
+			{"lat": -74.920, "lng": 1.732},
+			{"lat": -74.165, "lng": 2.105},
+			{"lat": -73.899, "lng": 0.449},
+			{"lat": -74.009, "lng": 0.163},
+			{"lat": -74.397, "lng": -0.364},
+			{"lat": -74.608, "lng": -0.170},
+			{"lat": -74.856, "lng": -1.005},
+			{"lat": -74.961, "lng": -0.577}
+		]
+	},
+	{
+		"title": "En Attente 7",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00008B",
+		"fillcolor": "00008B",
+		"latlngarray": [
+			{"lat": -76.666, "lng": 8.179},
+			{"lat": -78.826, "lng": 7.287},
+			{"lat": -78.893, "lng": 10.859},
+			{"lat": -76.733, "lng": 11.748}
+		]
+	},
+	{
+		"title": "En Attente 8",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "87CEFA",
+		"fillcolor": "87CEFA",
+		"latlngarray": [
+			{"lat": -72.336, "lng": -4.954},
+			{"lat": -71.664, "lng": -1.373},
+			{"lat": -71.701, "lng": -1.175},
+			{"lat": -71.701, "lng": 0.077},
+			{"lat": -71.914, "lng": -0.033},
+			{"lat": -72.171, "lng": -0.186},
+			{"lat": -72.205, "lng": -0.208},
+			{"lat": -72.359, "lng": -0.033},
+			{"lat": -72.398, "lng": 0.033},
+			{"lat": -72.674, "lng": -0.802},
+			{"lat": -73.027, "lng": -1.230},
+			{"lat": -73.174, "lng": -1.582}
+		]
+	},
+	{
+		"title": "En Attente 9",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -73.635, "lng": -7.344},
+			{"lat": -73.975, "lng": -8.399},
+			{"lat": -73.706, "lng": -9.255},
+			{"lat": -74.102, "lng": -10.837},
+			{"lat": -74.704, "lng": -8.135},
+			{"lat": -73.975, "lng": -5.850}
+		]
+	},
+	{
+		"title": "En Attente 10",
+		"wiki_link": "https://discord.com/channels/1230172213412630549/1247967503569916085",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+			{"lat": -74.404, "lng": -3.967},
+			{"lat": -74.892, "lng": -1.792},
+			{"lat": -75.058, "lng": -1.066},
+			{"lat": -75.366, "lng": -0.473},
+			{"lat": -75.625, "lng": -2.736},
+			{"lat": -75.690, "lng": -3.571},
+			{"lat": -75.603, "lng": -3.945},
+			{"lat": -75.515, "lng": -4.406},
+			{"lat": -75.120, "lng": -6.252}
+		]
+	},
+	{
+		"title": "...",
+		"notes": "...",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			
+		]
+	},
+	{
+		"title": "image 3",
+		"notes": "3",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "5",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "8300FF",
+		"fillcolor": "8300FF",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "2",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "8300FF",
+		"fillcolor": "8300FF",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "4",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "8300FF",
+		"fillcolor": "8300FF",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "3",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "8300FF",
+		"fillcolor": "8300FF",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "7",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "8300FF",
+		"fillcolor": "8300FF",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "8",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "8300FF",
+		"fillcolor": "8300FF",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "7",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "8300FF",
+		"fillcolor": "8300FF",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "9",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "8300FF",
+		"fillcolor": "8300FF",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "Free",
+		"notes": "Free",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "Free",
+		"notes": "Free",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "Free",
+		"notes": "Free",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "Frre",
+		"notes": "Free",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+
+		]
+	}
+]
+=======
+[
+	{
+		"title": "En Attente 1",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "ff7f00",
+		"fillcolor": "ff7f00",
+		"latlngarray": [
+			{"lat": -72.959, "lng": -15.638},
+			{"lat": -71.647, "lng": -20.766},
+			{"lat": -71.126, "lng": -18.250},
+			{"lat": -71.062, "lng": -17.943},
+			{"lat": -71.061, "lng": -11.811},
+			{"lat": -71.238, "lng": -10.911}
+		]
+	},
+	{
+		"title": "En Attente 2",
+		"notes": "",
+		"wiki_link": "",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -71.674, "lng": -21.956},
+			{"lat": -71.667, "lng": -22.484},
+			{"lat": -72.105, "lng": -22.484},
+			{"lat": -72.359, "lng": -22.616},
+			{"lat": -72.604, "lng": -22.923},
+			{"lat": -73.550, "lng": -24.967},
+			{"lat": -73.921, "lng": -22.598},
+			{"lat": -74.425, "lng": -20.203},
+			{"lat": -73.149, "lng": -16.182}
+		]
+	},
+	{
+		"title": "En Attente 3",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "008000",
+		"fillcolor": "008000",
+		"latlngarray": [
+			{"lat": -72.213, "lng": -48.230},
+			{"lat": -72.512, "lng": -49.636},
+			{"lat": -72.930, "lng": -48.648},
+			{"lat": -73.084, "lng": -48.296},
+			{"lat": -73.501, "lng": -47.285},
+			{"lat": -73.625, "lng": -47.000},
+			{"lat": -73.631, "lng": -47.022},
+			{"lat": -73.693, "lng": -46.868},
+			{"lat": -73.853, "lng": -46.450},
+			{"lat": -73.470, "lng": -44.824},
+			{"lat": -73.445, "lng": -45.066},
+			{"lat": -73.369, "lng": -45.352},
+			{"lat": -72.761, "lng": -46.934}
+
+		]
+	},
+	{
+		"title": "En Attente 4",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0000FF",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -67.996, "lng": -51.359},
+			{"lat": -68.198, "lng": -52.502},
+			{"lat": -68.247, "lng": -52.436},
+			{"lat": -69.109, "lng": -52.414},
+			{"lat": -69.172, "lng": -52.348},
+			{"lat": -68.841, "lng": -50.568},
+			{"lat": -68.746, "lng": -50.656}
+		]
+	},
+	{
+		"title": "En Attente 5",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "8A2BE2",
+		"fillcolor": "8A2BE2",
+		"latlngarray": [
+			{"lat": -75.748, "lng": -4.596},
+			{"lat": -76.190, "lng": -2.816},
+			{"lat": -76.289, "lng": -3.190},
+			{"lat": -76.437, "lng": -3.495},
+			{"lat": -76.514, "lng": -3.759},
+			{"lat": -76.583, "lng": -3.982},
+			{"lat": -76.714, "lng": -4.492},
+			{"lat": -76.930, "lng": -5.444},
+			{"lat": -77.003, "lng": -5.884},
+			{"lat": -76.621, "lng": -7.727},
+			{"lat": -76.174, "lng": -6.162}
+		]
+	},
+	{
+		"title": "En Attente 6",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "6614b8",
+		"fillcolor": "6614b8",
+		"latlngarray": [
+			{"lat": -75.290, "lng": 0.094},
+			{"lat": -75.186, "lng": 0.941},
+			{"lat": -74.920, "lng": 1.732},
+			{"lat": -74.165, "lng": 2.105},
+			{"lat": -73.899, "lng": 0.449},
+			{"lat": -74.009, "lng": 0.163},
+			{"lat": -74.397, "lng": -0.364},
+			{"lat": -74.608, "lng": -0.170},
+			{"lat": -74.856, "lng": -1.005},
+			{"lat": -74.961, "lng": -0.577}
+		]
+	},
+	{
+		"title": "En Attente 7",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00008B",
+		"fillcolor": "00008B",
+		"latlngarray": [
+			{"lat": -76.666, "lng": 8.179},
+			{"lat": -78.826, "lng": 7.287},
+			{"lat": -78.893, "lng": 10.859},
+			{"lat": -76.733, "lng": 11.748}
+		]
+	},
+	{
+		"title": "En Attente 8",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "87CEFA",
+		"fillcolor": "87CEFA",
+		"latlngarray": [
+			{"lat": -72.336, "lng": -4.954},
+			{"lat": -71.664, "lng": -1.373},
+			{"lat": -71.701, "lng": -1.175},
+			{"lat": -71.701, "lng": 0.077},
+			{"lat": -71.914, "lng": -0.033},
+			{"lat": -72.171, "lng": -0.186},
+			{"lat": -72.205, "lng": -0.208},
+			{"lat": -72.359, "lng": -0.033},
+			{"lat": -72.398, "lng": 0.033},
+			{"lat": -72.674, "lng": -0.802},
+			{"lat": -73.027, "lng": -1.230},
+			{"lat": -73.174, "lng": -1.582}
+		]
+	},
+	{
+		"title": "En Attente 9",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -73.635, "lng": -7.344},
+			{"lat": -73.975, "lng": -8.399},
+			{"lat": -73.706, "lng": -9.255},
+			{"lat": -74.102, "lng": -10.837},
+			{"lat": -74.704, "lng": -8.135},
+			{"lat": -73.975, "lng": -5.850}
+		]
+	},
+	{
+		"title": "En Attente 10",
+		"wiki_link": "https://discord.com/channels/1230172213412630549/1247967503569916085",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+			{"lat": -74.404, "lng": -3.967},
+			{"lat": -74.892, "lng": -1.792},
+			{"lat": -75.058, "lng": -1.066},
+			{"lat": -75.366, "lng": -0.473},
+			{"lat": -75.625, "lng": -2.736},
+			{"lat": -75.690, "lng": -3.571},
+			{"lat": -75.603, "lng": -3.945},
+			{"lat": -75.515, "lng": -4.406},
+			{"lat": -75.120, "lng": -6.252}
+		]
+	},
+	{
+		"title": "...",
+		"notes": "...",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			
+		]
+	},
+	{
+		"title": "image 3",
+		"notes": "3",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "5",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "8300FF",
+		"fillcolor": "8300FF",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "2",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "8300FF",
+		"fillcolor": "8300FF",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "4",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "8300FF",
+		"fillcolor": "8300FF",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "3",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "8300FF",
+		"fillcolor": "8300FF",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "7",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "8300FF",
+		"fillcolor": "8300FF",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "8",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "8300FF",
+		"fillcolor": "8300FF",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "7",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "8300FF",
+		"fillcolor": "8300FF",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "9",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "8300FF",
+		"fillcolor": "8300FF",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "Free",
+		"notes": "Free",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "Free",
+		"notes": "Free",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "Free",
+		"notes": "Free",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+
+		]
+	},
+	{
+		"title": "Frre",
+		"notes": "Free",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+
+		]
+	}
+]
+>>>>>>> 44ce945332f2586bcd807b71915769cf1142efce
